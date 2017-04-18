@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_83301cb94c4e0f1af22bcdd7e6c6c2129a14fced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_4493150194af304113ad1fb5770c9773368ea623.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_14a3ab9edbfac0b5306f9063bd74e4cf63d453f0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_88907edbcb00964a6a21ff99a8668ebca469bd46\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_0fce38fa8bb06fafc50d96299ff3ec3214906c96.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_09a9d1f5bb3996fe95a58fa6e51c8c8d79c7c23e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_79c2a1c78926a9d8995cfac304f609b95aaf9296.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_fc408a82e0d22d209b74bcfcad5a91903c4e2fb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_fed1e463a9ae4fe6d37cd5a8573ffda9f0a1908d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_73e8b9d2c5f87acc6c6b3ea990368bbbc6b37e90.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_4d40d9283070ed1fb33ac0337aa4cff81da5d34e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_7f0b65e3f131f80e6bcd0658b5df05e9248a7b64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_0c8b1d80cffc0542edbbe37b922a9e2da4d55984\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_58138722b20d0b8430cb59ed3f2507ed0fb717f7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_4a630ec46a0363d1c0c0a37644abd4f446625845\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jovian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_109686236fb6e82c3a98c595a319afcd3175665b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b10aa397c40ef4aefc51a1128beb22b382fd263a">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a7d82a0527bad101b53ce350f2c5cc2f086120e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_71071806c32cbb383bfcc810de3655901ac3d8f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_c5b003a310d27f48f3a5d64f482c1b1a14fbab8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_99948dcf042d940e7fdcfa3c5c1e48dc4deaa510.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_c2763f8b29e812226dea715130c2ec6756ebc081.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Jovian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_109686236fb6e82c3a98c595a319afcd3175665b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_1d5ff333aa1b7d2da730307a54b5e896383d8b91.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_d261589692417894152c90564bac1b92f2b994aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_68ef5613dfcba992e0b94fc4d3c170a924af27dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_196abfab3072917eca990a03ab6efac6fd591581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_b3d83d333852da6b96e6bba9c9946153fc33fc0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_4c00643c01d84c6dfa889fb0a9c828fc53326238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_2519f135c3c0e2cc69bd63e81dc9a08f49b6da6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccf6c6c969b4e22fcd30c254eeecb278189e0567">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5f16b569c5e16eb16b1848c4e94c91c8cb097728\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_6921f9137d2290193a1da18335e05164960ef84c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_3c533b1a56f0d6c98741b9c45c5a2cfd6fe76591\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_7063abd9865b4b2a499bb7fb3872ee7c7d3bcd87.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_adff4f363e2cb88916fe8575e725d4eb9e5bfce0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_abdb501bf0cb091fbb738e29a511a532e23e7e79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_5df707d0bd2a4eb90548aa629aa81f055da14e72\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_3d3eebd9b03ecad7ec2c4a4ae634f9284db46414.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_86b7a4b60f490ad39be8b55839fcf31c75ae7d98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\tubes\FirebaseAuth\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_c000ccb8d2f03adf46bb99671149c21e64fee64e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="D:\Jovian\semester 6\IF3111 - PBD\android\FirebaseAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_d904809fd1f399674ba5118198720412160ba1c0\classes.dex" />
+    </item>
+
+</items>
